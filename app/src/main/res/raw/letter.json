@@ -1,0 +1,28 @@
+{
+  "letter": [
+    {
+      "id": 1,
+      "subject": "Simulasi Ujian AAD",
+      "content": "Mencoba mengerjakan project latihan AAD",
+      "created": 1577811600000,
+      "expires": 1655226000000,
+      "opened": true
+    },
+    {
+      "id": 2,
+      "subject": "Simulasi Ujian AAD 1",
+      "content": "Mencoba mengerjakan project latihan AAD",
+      "created": 1577811600000,
+      "expires": 1655226000000,
+      "opened": true
+    },
+    {
+      "id": 3,
+      "subject": "Simulasi Ujian AAD 2",
+      "content": "Mencoba mengerjakan project latihan AAD",
+      "created": 1577811600000,
+      "expires": 1655226000000,
+      "opened": true
+    }
+  ]
+}
